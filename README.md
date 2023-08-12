@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VishnuDevhare07 Sophomore Student of CSE.
+- 👋 Hi, I’m @VishnuDevhare07 Pre-Final year Student of CSE.
 - 👀 I’m interested in Web 3.O , BLOCKCHAIN , NFT's , WEB Devlopment
 - 🌱 I’m currently learning Web 3.O AND BLOCKCHAIN
 - 💞️ I’m looking to collaborate on Web3.O and Full Stack Web Developer
